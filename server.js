@@ -27,6 +27,34 @@ const arksId = {
         'subClass': 'Force',
         'subClassLevel': 55
     },
+    'HunterJG':{
+        'mainCharacter': 'Ran',
+        'mainClass': 'Bouncer',
+        'mainClassLevel': 60,
+        'subClass': 'Force',
+        'subClassLevel': 55
+    },
+    'inquity':{
+        'mainCharacter': 'Calamity',
+        'mainClass': 'Braver',
+        'mainClassLevel': 60,
+        'subClass': 'Force',
+        'subClassLevel': 60
+    },
+    'INFAMOUS':{
+        'mainCharacter': 'INFAMOUS',
+        'mainClass': 'Hunter',
+        'mainClassLevel': 20,
+        'subClass': 'Fighter',
+        'subClassLevel': 20
+    },
+    'expz':{
+        'mainCharacter': 'ExpZ',
+        'mainClass': 'Force',
+        'mainClassLevel': 60,
+        'subClass': 'Gunner',
+        'subClassLevel': 60
+    },
     'rappy':{
         'maincharacter': 'Rappy',
         'mainClass': 'Rappy',
