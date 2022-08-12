@@ -23,39 +23,88 @@ const arksId = {
         'subClass': 'Techer',
         'subClassLevel': 60
     },
-    'Mytixx':{
+    'Myntii':{
         'mainCharacter': 'Wumbology',
         'mainClass': 'Ranger',
         'mainClassLevel': 60,
         'subClass': 'Force',
         'subClassLevel': 55
     },
-    'HunterJG':{
+    'Hunter JG':{
         'mainCharacter': 'Ran',
         'mainClass': 'Bouncer',
         'mainClassLevel': 60,
         'subClass': 'Force',
         'subClassLevel': 55
     },
-    'inquity':{
+    'Iniquity。':{
         'mainCharacter': 'Calamity',
         'mainClass': 'Braver',
         'mainClassLevel': 60,
         'subClass': 'Force',
         'subClassLevel': 60
     },
-    'INFAMOUS':{
+    'INFAMOUS_FOX':{
         'mainCharacter': 'INFAMOUS',
         'mainClass': 'Hunter',
         'mainClassLevel': 20,
         'subClass': 'Fighter',
         'subClassLevel': 20
     },
-    'expz':{
+    'ExplodeZ':{
         'mainCharacter': 'ExpZ',
         'mainClass': 'Force',
         'mainClassLevel': 60,
         'subClass': 'Gunner',
+        'subClassLevel': 60
+    },
+    'strato toran':{
+        'mainCharacter': 'Katoro',
+        'mainClass': 'Braver',
+        'mainClassLevel': 60,
+        'subClass': '',
+        'subClassLevel': 60
+    },
+    'BabyPeachies':{
+        'mainCharacter': 'BabyPeachies',
+        'mainClass': 'Force',
+        'mainClassLevel': 60,
+        'subClass': 'Techer',
+        'subClassLevel': 60
+    },
+    'Caregiver':{
+        'mainCharacter': 'Mercury',
+        'mainClass': 'Force',
+        'mainClassLevel': 60,
+        'subClass': 'Techer',
+        'subClassLevel': 60
+    },
+    'EternalFlames':{
+        'mainCharacter': 'アリス',
+        'mainClass': 'Braver',
+        'mainClassLevel': 60,
+        'subClass': 'Hunter',
+        'subClassLevel': 60
+    },
+    'Eternity516':{
+        'mainCharacter': 'Alicia',
+        'mainClass': 'Gunner',
+        'mainClassLevel': 60,
+        'subClass': 'Hunter',
+        'subClassLevel': 55
+    },
+    'ShadowV3nom':{
+        'mainCharacter': 'ShadowVenom',
+        'mainClass': 'Waker',
+        'mainClassLevel': 60,
+        'subClass': 'Force',
+        'subClassLevel': 55
+    },
+    'やrotagonist':{
+        'mainCharacter': 'Ash',
+        'mainClass': 'Braver',
+        'mainClassLevel': 60,
+        'subClass': 'Force',
         'subClassLevel': 60
     },
     'rappy':{
