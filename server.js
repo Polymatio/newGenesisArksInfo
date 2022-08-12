@@ -16,8 +16,8 @@ const arksId = {
         'subClass': 'Force',
         'subClassLevel': 60
     },
-    'rumbleSnake':{
-        'mainCharacter': 'rumbleSnake',
+    'RumbleSnake':{
+        'mainCharacter': 'RumbleSnake',
         'mainClass': 'Force',
         'mainClassLevel': 60,
         'subClass': 'Techer',
@@ -59,17 +59,17 @@ const arksId = {
         'subClassLevel': 60
     },
     'strato toran':{
-        'mainCharacter': 'Katoro',
+        'mainCharacter': 'Katori',
         'mainClass': 'Braver',
         'mainClassLevel': 60,
-        'subClass': '',
+        'subClass': 'Bouncer',
         'subClassLevel': 60
     },
     'BabyPeachies':{
         'mainCharacter': 'BabyPeachies',
         'mainClass': 'Force',
         'mainClassLevel': 60,
-        'subClass': 'Techer',
+        'subClass': 'Bouncer',
         'subClassLevel': 60
     },
     'Caregiver':{
