@@ -5,6 +5,9 @@ const PORT = 1111
 
 app.use(cors())
 
+// Creating Objects for PSO2 NGS ARKS ID,
+// It will be used for searching players.
+
 const arksId = {
     'Polymath':{
         'mainCharacter': 'Polymath',
@@ -64,9 +67,14 @@ const arksId = {
     }
 }
 
+// Server file will send send files onto HTML file.
+
 app.get('/', (resquest, response)=>{
     response.sendFile(__dirname + '/index.html')
 })
+
+// Server will get the IDs of the player ARKS card.
+// It will use conditional to display Player information.
 
 app.get('/api/:arksName', (request,response)=>{
     const arksName = request.params.arksName.toLowerCase()
@@ -76,6 +84,8 @@ app.get('/api/:arksName', (request,response)=>{
         response.json(arksId['rappy'])
     }
 })
+
+// Uses environment PORT by using env file to process.
 
 app.listen(process.env.PORT || PORT, ()=>{
     console.log(`The server is running on port ${PORT}! Hurry up before Dark Falz takes you 3 digits on the back!`)
