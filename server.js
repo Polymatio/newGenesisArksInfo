@@ -8,7 +8,7 @@ app.use(cors())
 // Creating Objects for PSO2 NGS ARKS ID,
 // It will be used for searching players.
 
-const arksId = {
+const arksCard = {
     'Polymath':{
         'mainCharacter': 'Polymath',
         'mainClass': 'Gunner',
@@ -127,10 +127,10 @@ app.get('/', (resquest, response)=>{
 
 app.get('/api/:arksName', (request,response)=>{
     const arksName = request.params.arksName.toLowerCase()
-    if(arksId[arksName]){
-        response.json(arksId[arksName])
+    if(arksCard[arksName]){
+        response.json(arksCard[arksName])
     }else{
-        response.json(arksId['rappy'])
+        response.json(arksCard['rappy'])
     }
 })
 
