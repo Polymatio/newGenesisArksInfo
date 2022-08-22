@@ -10,109 +10,124 @@ app.use(cors())
 
 const arksCard = {
     'Polymath':{
-        'mainCharacter': 'Polymath',
+        'playerId': 'Polymath',
         'mainClass': 'Gunner',
         'mainClassLevel': 60,
         'subClass': 'Force',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'RumbleSnake':{
-        'mainCharacter': 'RumbleSnake',
+        'playerId': 'RumbleSnake',
         'mainClass': 'Force',
         'mainClassLevel': 60,
         'subClass': 'Techer',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'Myntii':{
-        'mainCharacter': 'Wumbology',
+        'playerId': 'Wumbology',
         'mainClass': 'Ranger',
         'mainClassLevel': 60,
         'subClass': 'Force',
-        'subClassLevel': 55
+        'subClassLevel': 55,
+        'playerBiology': 'Insert'
     },
     'Hunter JG':{
-        'mainCharacter': 'Ran',
+        'playerId': 'Ran',
         'mainClass': 'Bouncer',
         'mainClassLevel': 60,
         'subClass': 'Force',
-        'subClassLevel': 55
+        'subClassLevel': 55,
+        'playerBiology': 'Insert'
     },
     'Iniquity。':{
-        'mainCharacter': 'Calamity',
+        'playerId': 'Calamity',
         'mainClass': 'Braver',
         'mainClassLevel': 60,
         'subClass': 'Force',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'INFAMOUS_FOX':{
-        'mainCharacter': 'INFAMOUS',
+        'playerId': 'INFAMOUS',
         'mainClass': 'Hunter',
         'mainClassLevel': 20,
         'subClass': 'Fighter',
-        'subClassLevel': 20
+        'subClassLevel': 20,
+        'playerBiology': 'Insert'
     },
     'ExplodeZ':{
-        'mainCharacter': 'ExpZ',
+        'playerId': 'ExpZ',
         'mainClass': 'Force',
         'mainClassLevel': 60,
         'subClass': 'Gunner',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'strato toran':{
-        'mainCharacter': 'Katori',
+        'playerId': 'Katori',
         'mainClass': 'Braver',
         'mainClassLevel': 60,
         'subClass': 'Bouncer',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'BabyPeachies':{
-        'mainCharacter': 'BabyPeachies',
+        'playerId': 'BabyPeachies',
         'mainClass': 'Force',
         'mainClassLevel': 60,
         'subClass': 'Bouncer',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'Caregiver':{
-        'mainCharacter': 'Mercury',
+        'playerId': 'Mercury',
         'mainClass': 'Force',
         'mainClassLevel': 60,
         'subClass': 'Techer',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'EternalFlames':{
-        'mainCharacter': 'アリス',
+        'playerId': 'アリス',
         'mainClass': 'Braver',
         'mainClassLevel': 60,
         'subClass': 'Hunter',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'Eternity516':{
-        'mainCharacter': 'Alicia',
+        'playerId': 'Alicia',
         'mainClass': 'Gunner',
         'mainClassLevel': 60,
         'subClass': 'Hunter',
-        'subClassLevel': 55
+        'subClassLevel': 55,
+        'playerBiology': 'Insert'
     },
     'ShadowV3nom':{
-        'mainCharacter': 'ShadowVenom',
+        'playerId': 'ShadowVenom',
         'mainClass': 'Waker',
         'mainClassLevel': 60,
         'subClass': 'Force',
-        'subClassLevel': 55
+        'subClassLevel': 55,
+        'playerBiology': 'Insert'
     },
     'やrotagonist':{
-        'mainCharacter': 'Ash',
+        'playerId': 'Ash',
         'mainClass': 'Braver',
         'mainClassLevel': 60,
         'subClass': 'Force',
-        'subClassLevel': 60
+        'subClassLevel': 60,
+        'playerBiology': 'Insert'
     },
     'rappy':{
         'maincharacter': 'Rappy',
         'mainClass': 'Rappy',
         'mainClassLevel': 999,
         'subClass': 'Rappy',
-        'subClassLevel': 999
+        'subClassLevel': 999,
+        'playerBiology': 'Insert'
     }
 }
 
