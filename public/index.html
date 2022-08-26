@@ -29,12 +29,12 @@
                 <!-- The Player's SEGA ID -->
                 <div class="playerIDNameField">
                     <span class="systemColor">Player ID Name</span>
-                    <span id="playerIDName">Temporary</span>
+                    <span id="playerIDName" class="clear">Temporary</span>
                 </div>
                 <!-- The Player ID (This can probably chnage if you want.) -->
                 <div class="playerIDField">
                     <span class="systemColor">Player ID</span>
-                    <span id="playerID">00000000</span>
+                    <span id="playerID" class="clear">00000000</span>
                 </div>
                 <!-- In the game, there's just an empty space, this is to recreate this. -->
                 <div>
@@ -44,7 +44,7 @@
                 <!-- Their most well-known character. -->
                 <div class="recentCharacterField">
                     <span class="systemColor">Recent Character</span>
-                    <span id="recentCharacter">Tempy</span>
+                    <span id="recentCharacter" class="clear">Tempy</span>
                 </div>
 
                 <!-- Player Biography -->
@@ -65,6 +65,7 @@
                 <div class="editButtons">
                     <button>Edit</button>
                     <button>Return</button>
+                    <button onclick="clearButton()">Clear</button>
                 </div>
             </div>
             
@@ -77,5 +78,6 @@
             </div>
         </main>
     </section>
+    <script src="js/main.js"></script>
 </body>
 </html>
