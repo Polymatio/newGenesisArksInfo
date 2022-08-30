@@ -7,6 +7,7 @@ app.use(cors())
 
 // Creating Objects for PSO2 NGS ARKS ID,
 // It will be used for searching players.
+// Test.
 
 const arksCard = {
     'Polymath':{
