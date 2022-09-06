@@ -7,7 +7,6 @@ app.use(cors())
 
 // Creating Objects for PSO2 NGS ARKS ID,
 // It will be used for searching players.
-// Test.
 
 const arksCard = {
     'Polymath':{
@@ -16,7 +15,7 @@ const arksCard = {
         'mainClassLevel': 60,
         'subClass': 'Force',
         'subClassLevel': 60,
-        'playerBiology': 'Insert'
+        'playerBiology': 'At a young age she had her DNA altered in order to become close to Photoners and Darkers. The project failed and the Lillipans abandoned the research leaving Polymath with permanent marks on her whole body. After many years she learn how to control her powers and began a new journey to stop the very being her DNA was mixed with.'
     },
     'RumbleSnake':{
         'playerId': 'RumbleSnake',
@@ -48,7 +47,7 @@ const arksCard = {
         'mainClassLevel': 60,
         'subClass': 'Force',
         'subClassLevel': 60,
-        'playerBiology': 'Insert'
+        'playerBiology': 'After witnessing her parants murder at a young age, she was raised by a gang led by the very man responsible. She became talented at being an assassin by the age of 16. One day everything suddently fallen apart and before she knew it she was fighting alone. She had one last mission; kill the man who took everything from her.'
     },
     'INFAMOUS_FOX':{
         'playerId': 'INFAMOUS',
@@ -134,7 +133,7 @@ const arksCard = {
 
 // Server file will send send files onto HTML file.
 
-app.get('/', (resquest, response)=>{
+app.get('/', (request, response)=>{
     response.sendFile(__dirname + '/index.html')
 })
 
