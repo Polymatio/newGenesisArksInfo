@@ -9,6 +9,12 @@ body{
 #arksCard{
     width:  75vw;
     height: 50vh;
+    
+    /* These values are that it wont go too crazy at unusual resolutions,
+     * I would know, I have an unusual resolution!
+     */
+    max-width: 770px;
+    max-height: 440px;
 }
 #arksCard > *{
     margin:0;
@@ -66,6 +72,7 @@ body{
 .cardPictures{
     display: flex;
     flex-direction: column;
+    margin-left: 2%;
 }
 /* Allows for the Pictures to take up all of the right side. */
 .cardPictures>*{
@@ -101,8 +108,16 @@ body{
 #idSticker{
     width:60%;
     height:75%;
+    object-fit: cover;
 }
 
+/* Allows for the Picture to not flood the page,
+ * Stay in your lane!
+ */
+#idPicture{
+    object-fit: cover;
+    height: 50vh;
+}
 /* Adds the Neccessary Spacing between the Buttons */
 .editButtons{
     justify-content: space-around;
