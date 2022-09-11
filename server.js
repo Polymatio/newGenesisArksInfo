@@ -71,7 +71,7 @@ const arksCard = {
         'mainClassLevel': 60,
         'subClass': 'Bouncer',
         'subClassLevel': 60,
-        'playerBiology': 'Insert'
+        'playerBiology': 'Kotori has no clue why she is on the planet. Everyone who has been dropping down seems to lose thier memory. All she does seem to know that shes looking for someone who starts with a "T" and ends with "N". She also realizes that shes somewhat stronger then most in terms of melee and techniques, but bad at range weapons. It also seems that memories are coming back. Who knows where journey will take her.'
     },
     'BabyPeachies':{
         'playerId': 'BabyPeachies',
