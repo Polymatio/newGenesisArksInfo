@@ -55,7 +55,7 @@ const arksCard = {
         'mainClassLevel': 20,
         'subClass': 'Fighter',
         'subClassLevel': 20,
-        'playerBiology': 'Insert'
+        'playerBiology': 'INFAMOUS WANTED TO BE A GHOST, YET HIS OWN FRIENDS BETRAYED HIM BY DRESSING HIM UP MORE AND MORE LIKE SISTERS WHO DRESS UP THEIR YOUNGER BROTHER. NOW HE BECOMES THE VERY THING HIS FRIENDS THOUGHT WAS FUNNY, BUT CAN NO LONGER FORGET. HIS TRUE FACE IS NOW A MYSTERY LONG FORGOTTON TO A TIME INFAMOUS WAS HAPPY FOR THE LAST TIME.'
     },
     'ExplodeZ':{
         'playerId': 'ExpZ',
