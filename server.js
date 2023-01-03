@@ -12,9 +12,9 @@ const arksCard = {
     'Polymath':{
         'playerId': 'Polymath',
         'mainClass': 'Gunner',
-        'mainClassLevel': 60,
+        'mainClassLevel': 70,
         'subClass': 'Force',
-        'subClassLevel': 60,
+        'subClassLevel': 70,
         'playerBiology': 'At a young age she had her DNA altered in order to become close to Photoners and Darkers. The project failed and the Lillipans abandoned the research leaving Polymath with permanent marks on her whole body. After many years she learn how to control her powers and began a new journey to stop the very being her DNA was mixed with.'
     },
     'RumbleSnake':{
@@ -44,17 +44,17 @@ const arksCard = {
     'Iniquity。':{
         'playerId': 'Calamity',
         'mainClass': 'Braver',
-        'mainClassLevel': 60,
+        'mainClassLevel': 70,
         'subClass': 'Force',
-        'subClassLevel': 60,
+        'subClassLevel': 70,
         'playerBiology': 'After witnessing her parants murder at a young age, she was raised by a gang led by the very man responsible. She became talented at being an assassin by the age of 16. One day everything suddently fallen apart and before she knew it she was fighting alone. She had one last mission; kill the man who took everything from her.'
     },
     'INFAMOUS_FOX':{
         'playerId': 'INFAMOUS',
         'mainClass': 'Hunter',
-        'mainClassLevel': 20,
+        'mainClassLevel': 70,
         'subClass': 'Fighter',
-        'subClassLevel': 20,
+        'subClassLevel': 70,
         'playerBiology': 'INFAMOUS WANTED TO BE A GHOST, YET HIS OWN FRIENDS BETRAYED HIM BY DRESSING HIM UP MORE AND MORE LIKE SISTERS WHO DRESS UP THEIR YOUNGER BROTHER. NOW HE BECOMES THE VERY THING HIS FRIENDS THOUGHT WAS FUNNY, BUT CAN NO LONGER FORGET. HIS TRUE FACE IS NOW A MYSTERY LONG FORGOTTON TO A TIME INFAMOUS WAS HAPPY FOR THE LAST TIME.'
     },
     'ExplodeZ':{
@@ -68,17 +68,17 @@ const arksCard = {
     'strato toran':{
         'playerId': 'Katori',
         'mainClass': 'Braver',
-        'mainClassLevel': 60,
+        'mainClassLevel': 70,
         'subClass': 'Bouncer',
-        'subClassLevel': 60,
+        'subClassLevel': 70,
         'playerBiology': 'Kotori has no clue why she is on the planet. Everyone who has been dropping down seems to lose thier memory. All she does seem to know that shes looking for someone who starts with a "T" and ends with "N". She also realizes that shes somewhat stronger then most in terms of melee and techniques, but bad at range weapons. It also seems that memories are coming back. Who knows where journey will take her.'
     },
     'BabyPeachies':{
         'playerId': 'BabyPeachies',
         'mainClass': 'Force',
-        'mainClassLevel': 60,
+        'mainClassLevel': 70,
         'subClass': 'Bouncer',
-        'subClassLevel': 60,
+        'subClassLevel': 70,
         'playerBiology': 'Insert'
     },
     'Caregiver':{
