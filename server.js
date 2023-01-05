@@ -57,14 +57,6 @@ const arksCard = {
         'subClassLevel': 70,
         'playerBiology': 'INFAMOUS WANTED TO BE A GHOST, YET HIS OWN FRIENDS BETRAYED HIM BY DRESSING HIM UP MORE AND MORE LIKE SISTERS WHO DRESS UP THEIR YOUNGER BROTHER. NOW HE BECOMES THE VERY THING HIS FRIENDS THOUGHT WAS FUNNY, BUT CAN NO LONGER FORGET. HIS TRUE FACE IS NOW A MYSTERY LONG FORGOTTON TO A TIME INFAMOUS WAS HAPPY FOR THE LAST TIME.'
     },
-    'ExplodeZ':{
-        'playerId': 'ExpZ',
-        'mainClass': 'Force',
-        'mainClassLevel': 60,
-        'subClass': 'Gunner',
-        'subClassLevel': 60,
-        'playerBiology': 'Insert'
-    },
     'strato toran':{
         'playerId': 'Katori',
         'mainClass': 'Braver',
@@ -79,46 +71,6 @@ const arksCard = {
         'mainClassLevel': 70,
         'subClass': 'Bouncer',
         'subClassLevel': 70,
-        'playerBiology': 'Insert'
-    },
-    'Caregiver':{
-        'playerId': 'Mercury',
-        'mainClass': 'Force',
-        'mainClassLevel': 60,
-        'subClass': 'Techer',
-        'subClassLevel': 60,
-        'playerBiology': 'Insert'
-    },
-    'EternalFlames':{
-        'playerId': 'アリス',
-        'mainClass': 'Braver',
-        'mainClassLevel': 60,
-        'subClass': 'Hunter',
-        'subClassLevel': 60,
-        'playerBiology': 'Insert'
-    },
-    'Eternity516':{
-        'playerId': 'Alicia',
-        'mainClass': 'Gunner',
-        'mainClassLevel': 60,
-        'subClass': 'Hunter',
-        'subClassLevel': 55,
-        'playerBiology': 'Insert'
-    },
-    'ShadowV3nom':{
-        'playerId': 'ShadowVenom',
-        'mainClass': 'Waker',
-        'mainClassLevel': 60,
-        'subClass': 'Force',
-        'subClassLevel': 55,
-        'playerBiology': 'Insert'
-    },
-    'やrotagonist':{
-        'playerId': 'Ash',
-        'mainClass': 'Braver',
-        'mainClassLevel': 60,
-        'subClass': 'Force',
-        'subClassLevel': 60,
         'playerBiology': 'Insert'
     },
     'rappy':{
