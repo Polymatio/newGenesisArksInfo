@@ -39,7 +39,7 @@ const arksCard = {
         'mainClassLevel': 60,
         'subClass': 'Force',
         'subClassLevel': 55,
-        'playerBiology': 'Insert'
+        'playerBiology': 'When she was little, she was saved by an arks operative, so she decided to be an arks operative when she was older, so she could help other people the way that arks operative helped her'
     },
     'Iniquity。':{
         'playerId': 'Calamity',
