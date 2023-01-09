@@ -20,17 +20,17 @@ const arksCard = {
     'RumbleSnake':{
         'playerId': 'RumbleSnake',
         'mainClass': 'Force',
-        'mainClassLevel': 60,
+        'mainClassLevel': 70,
         'subClass': 'Techer',
-        'subClassLevel': 60,
+        'subClassLevel': 65,
         'playerBiology': 'Insert'
     },
     'Myntii':{
         'playerId': 'Wumbology',
         'mainClass': 'Ranger',
-        'mainClassLevel': 60,
+        'mainClassLevel': 70,
         'subClass': 'Force',
-        'subClassLevel': 55,
+        'subClassLevel': 65,
         'playerBiology': 'Insert'
     },
     'Hunter JG':{
